@@ -1,0 +1,27 @@
+name: nanoid_generator
+description: A secure, URL-friendly, unique string ID generator for Dart and Flutter. Generate cryptographically secure, collision-resistant IDs with customizable size and alphabet using Random.secure().
+version: 0.0.1
+homepage: https://github.com/yourusername/nanoid_generator
+repository: https://github.com/yourusername/nanoid_generator
+issue_tracker: https://github.com/yourusername/nanoid_generator/issues
+
+topics:
+  - id-generator
+  - nanoid
+  - unique-id
+  - cryptography
+  - random
+
+environment:
+  sdk: ^3.10.7
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
