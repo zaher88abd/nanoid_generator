@@ -1,3 +1,16 @@
+## 1.0.0 - 2026-01-10
+
+### Added
+
+- Interactive Flutter example app demonstrating NanoID generation
+  - Real-time NanoID generation on button click
+  - Selectable text for easy copying of generated IDs
+  - Clean, simple UI with Material Design
+
+### Changed
+
+- Updated example app from default Flutter counter to NanoID generator demo
+
 ## 0.0.1 - 2026-01-09
 
 ### Added
