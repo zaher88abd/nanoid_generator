@@ -1,3 +1,9 @@
+## 1.0.1 - 2026-01-10
+
+### Fixed
+
+- Removed unnecessary `publish_to` configuration from example app pubspec
+
 ## 1.0.0 - 2026-01-10
 
 ### Added
